@@ -217,6 +217,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Data Science/Machine Learning
 
+* [Adversarial Learning](http://adversariallearning.com/)
+
+  * **Description**: [@joelgrus](https://twitter.com/joelgrus) and [@akm](https://twitter.com/akm) talk about data, data science, science, Shingy, and whatever else they feel like.
+  * **Frequency**: whenever we can manage an episode
+  * **Runtime**: about an hour
+
 * [Concerning AI](https://concerning.ai)
 
   * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
